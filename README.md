@@ -36,7 +36,7 @@ I like creating extensions that add new capabilities to GDevelop, including tool
 
 I also enjoy experimenting with my own programming-language concepts and names, exploring how languages could be designed differently from existing ones.
 
-## 🎨 A Little About Me
+## 🎨 A Little bit About Me
 
 I'm a self-taught programmer/visual scripter who enjoys learning by building things.
 
